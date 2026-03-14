@@ -47,6 +47,7 @@ I'm a passionate developer who is curious about how technology works and how it 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbalmuhammad08f&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&card_width=400" 
     height="165"
   />
+  &nbsp;&nbsp;&nbsp;
   <img 
     src="https://streak-stats.demolab.com?user=iqbalmuhammad08f&theme=tokyonight&" 
     height="165"
